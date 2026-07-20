@@ -1,14 +1,14 @@
 #EXTM3U
-# Updated: 2026-07-20 14:26:29 UTC
+# Updated: 2026-07-20 16:39:44 UTC
 
 #EXTINF:-1 tvg-id="bein-sports-1-turkey" tvg-name="beIN Sports 1 Turkey" group-title="TV247",beIN Sports 1 Turkey
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg0NTU3NTgwOTc4fQ==
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg0NTY1NTc2OTI2fQ==
 
 #EXTINF:-1 tvg-id="bein-sports-2-turkey" tvg-name="beIN Sports 2 Turkey" group-title="TV247",beIN Sports 2 Turkey
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzg0NTU3NTgxOTc5fQ==
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzg0NTY1NTc3OTI2fQ==
 
 #EXTINF:-1 tvg-id="bein-sports-3-turkey" tvg-name="beIN Sports 3 Turkey" group-title="TV247",beIN Sports 3 Turkey
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzg0NTU3NTgyOTc5fQ==
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzg0NTY1NTc4OTI3fQ==
 
 #EXTINF:-1 tvg-id="bein-sports-4-turkey" tvg-name="beIN Sports 4 Turkey" group-title="TV247",beIN Sports 4 Turkey
-https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NSIsInRzIjoxNzg0NTU3NTgzOTc5fQ==
+https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NSIsInRzIjoxNzg0NTY1NTc5OTI3fQ==
